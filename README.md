@@ -124,5 +124,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ### 👨‍💻 Author
 **Sivaji**  
 Data Analyst | Python | Power BI | SQL | Excel  
-📧 *Contact:* [your-email@example.com]
+📧 *Contact:* [medidhasivaji7@gmail.com]
 
